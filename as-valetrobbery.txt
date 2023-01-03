@@ -1,1 +1,1 @@
-{"version":"1.5.0", "notes":"Fix major issues"}
+{"version":"1.6.0", "notes":"Fix major issues for selling car blips"}
