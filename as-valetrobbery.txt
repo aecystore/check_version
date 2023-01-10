@@ -1,1 +1,1 @@
-{"version":"1.6.0", "notes":"Fix major issues for selling car blips"}
+{"version":"1.7.0", "notes":"Fix log with qbcore framework."}
